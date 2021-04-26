@@ -4,7 +4,7 @@ read.csv(file='Storm events 1993.csv')
 #naming my csv file storm events
 stormevents <- read.csv(file='Storm events 1993.csv')
 
-#checking mu current column names
+#checking my current column names
 names(stormevents)
 
 #limiting my dataframe to specified columns from the directions for assignment 3
